@@ -12,4 +12,4 @@ console.log("John's BMI is: " + johnBMI)
 
 //mark > john
 
-console.log("Is Mark's BMI higher than John?: " + (markBMI > johnBMI))
+console.log('Is Mark\'s BMI higher than John\'s?: ' + (markBMI > johnBMI))
